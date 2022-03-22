@@ -38,4 +38,4 @@ SANITY_API_TOKEN=
 
 [Live](https://blog-with-next-js-fc07sp28w-alaminsahed.vercel.app/)
 <br/>
-[Admin Pannel](https://blog-medium.sanity.studio/desk)
+[Admin Dashboard](https://blog-medium.sanity.studio/desk)
